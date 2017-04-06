@@ -36,6 +36,9 @@ make install
 cd
 rm -r netatalk-3.1.11.tar.gz
 
+# Clear screen
+reset
+
 # Finishing up
 echo "+---------------------------------------------------------------------+"
 echo "|                         Congratulation!                             |"
