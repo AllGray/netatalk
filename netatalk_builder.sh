@@ -32,6 +32,11 @@ cd netatalk-3.1.11
 make
 make install
 
+#clean up
+cd
+rm -r 
+netatalk-3.1.11.tar.gz
+
 # Finishing up
 echo "+---------------------------------------------------------------------+"
 echo "|                         Congratulation!                             |"
