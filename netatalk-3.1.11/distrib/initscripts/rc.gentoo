@@ -1,0 +1,14 @@
+#!/sbin/openrc-run
+# Copyright 1999-2012 Gentoo Foundation
+# Distributed under the terms of the GNU General Public License v2
+#
+# Netatalk 3.1.11 daemons.
+
+command="/usr/local/sbin/${SVCNAME}"
+
+depend() {
+	need net
+	use avahi-daemon
+	use logger dns
+	after entropy
+}

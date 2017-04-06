@@ -1,0 +1,5 @@
+afpd-uid.o: uid.c /usr/include/stdc-predef.h ../../config.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:

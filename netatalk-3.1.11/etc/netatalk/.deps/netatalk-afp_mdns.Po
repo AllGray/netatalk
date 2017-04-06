@@ -1,0 +1,5 @@
+netatalk-afp_mdns.o: afp_mdns.c /usr/include/stdc-predef.h ../../config.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:

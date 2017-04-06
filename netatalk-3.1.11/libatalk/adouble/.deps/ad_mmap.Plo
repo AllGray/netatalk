@@ -1,0 +1,5 @@
+ad_mmap.lo: ad_mmap.c /usr/include/stdc-predef.h ../../config.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:
