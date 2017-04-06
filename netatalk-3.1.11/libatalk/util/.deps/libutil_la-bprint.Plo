@@ -1,5 +1,0 @@
-libutil_la-bprint.lo: bprint.c /usr/include/stdc-predef.h ../../config.h
-
-/usr/include/stdc-predef.h:
-
-../../config.h:
