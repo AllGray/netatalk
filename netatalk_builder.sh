@@ -41,9 +41,9 @@ reset
 
 # Finishing up
 echo "+---------------------------------------------------------------------+"
-echo "|                         Congratulation!                             |"
-echo "|                      Your install is done.                          |"
-echo "|        You can now access HOSTNAME.local from your browser          |"
+echo "|                           Congratulation!                           |"
+echo "|                        Your install is done.                        |"
+echo "|         You can now access HOSTNAME.local from your browser         |"
 echo "|                                                                     |"
 echo "|                                                                     |"
 echo "|                                                                     |"
